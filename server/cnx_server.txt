@@ -1,1 +1,1 @@
-{{"user":"ordens","host":"localhost","database":"5gacap","passwd":"12345js"}}
+[{"user":"ordens","host":"localhost","database":"5gacap","passwd":"12345js"}]
